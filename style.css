@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  text-align:center;
+}
+
+header { text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: seagreen;
+        margin:20px;
+       }
+
+header p{ font-weight: normal;
+        font-size:15px;}
+
+.background{
+  background-image: 
+}
+
+
+
+h2 {text-transform: uppercase;}
+
+article{font-family:sans-serif;}
+
+footer{background-color: seagreen;
+      padding: 20px;}
+
